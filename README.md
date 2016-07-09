@@ -1,3 +1,3 @@
 # sourds
 Szkola dla gluchoniemych
-Projekt administracyjny
+# Program administracyjny
